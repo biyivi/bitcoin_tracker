@@ -7,10 +7,11 @@ Script simple hecho con python.
 
 ![Captura de pantalla (385)](https://user-images.githubusercontent.com/75817113/131054510-4e3dd996-6627-47cb-8de5-b6fd1c705b68.png)
 
-#Rollercoin
+# Rollercoin
 
 RollerCoin es un juego en el que puedes ganar bitcoin (y otras criptomonedas como ETH, DOGE y el token RollerToken - RLT) de forma 100% gratis.
 Registrate desde este link y recibe 1000 satoshis gratis.
+
 https://rollercoin.com/?r=ksovd4u9
 							
 
